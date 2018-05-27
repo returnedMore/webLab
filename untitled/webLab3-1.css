@@ -1,0 +1,28 @@
+h1.name{
+    font-size: 20px;
+    color: #000000;
+}
+h1{
+    font-size: 15px;
+    color:#8B4513;
+}
+h3{
+    font-size: 15px;
+    color: #4682B4;
+}
+ol{
+    font-size: 10px;
+    color: #2F4F4F;
+}
+ul{
+    font-size: 10px;
+    color:#4682B4;
+}
+h3.work{
+    font-size: 15px;
+    color: #8B4513;
+}
+p.career{
+    font-size: 13px;
+    color: #4682B4;
+}
